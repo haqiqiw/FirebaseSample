@@ -1,2 +1,2 @@
-## Sharing Session (2016/09/23)
+## Sharing Session (2016/09/21)
 ### Topic : Firebase Android
